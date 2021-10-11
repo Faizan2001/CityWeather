@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">What\'s The Weather</string>
+    <string name="strings">TODO</string>
+    <string name="results">Results</string>
+    <string name="input_here">Input Here</string>
+    <string name="todo">TODO</string>
+    <string name="enter_city_name">Enter City name</string>
+    <string name="todoes">TODO</string>
+</resources>
